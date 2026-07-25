@@ -1,0 +1,3 @@
+theme: jekyll-theme-cayman
+title: XAUT Signal Suite
+description: TradingView Pine Script for XAUT/USDT perpetual — buy/sell, reentry, ATR TP/SL, and strong/weak support-resistance detection
